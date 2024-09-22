@@ -1,0 +1,110 @@
+E:/ummarVicharaktask/modules/tb_inst_mem.v {2 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_inst_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_inst_mem
+** Warning: E:/ummarVicharaktask/modules/tb_inst_mem.v(22): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/tb_inst_mem.v(24): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	tb_inst_mem
+
+} {} {}} E:/ummarVicharaktask/modules/forwarding_unit.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/forwarding_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} E:/ummarVicharaktask/modules/inst_mem.v {2 {vlog -work work -stats=none E:/ummarVicharaktask/modules/inst_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inst_mem
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(35): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(37): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(39): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(43): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(45): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(49): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(51): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(53): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	inst_mem
+
+} {} {}} E:/ummarVicharaktask/modules/tb_forwarding_unit.v {0 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_forwarding_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module _tb_forwarding_unit
+** Error: (vlog-13069) E:/ummarVicharaktask/modules/tb_forwarding_unit.v(61): near "end": syntax error, unexpected end, expecting ';'.
+
+} {4.0 5.0} {}} E:/ummarVicharaktask/modules/tb_pc.v {0 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_pc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_pc
+** Error: (vlog-13069) E:/ummarVicharaktask/modules/tb_pc.v(56): near "end": syntax error, unexpected end, expecting ';'.
+
+} {4.0 5.0} {}} E:/ummarVicharaktask/modules/cpu.v {0 {vlog -work work -stats=none E:/ummarVicharaktask/modules/cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cpu
+** Error: (vlog-13069) E:/ummarVicharaktask/modules/cpu.v(33): near "/": syntax error, unexpected '/'.
+
+} {4.0 5.0} {}} E:/ummarVicharaktask/modules/tb_reg_file.v {0 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_reg_file
+** Error: (vlog-13069) E:/ummarVicharaktask/modules/tb_reg_file.v(6): near "reg": syntax error, unexpected reg, expecting IDENTIFIER or TYPE_IDENTIFIER or NETTYPE_IDENTIFIER.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(41): (vlog-2730) Undefined variable: 'reset'.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(42): (vlog-2730) Undefined variable: 'WB_regwrite'.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(43): (vlog-2730) Undefined variable: 'ID_push'.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(44): (vlog-2730) Undefined variable: 'ID_pop'.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(45): (vlog-2730) Undefined variable: 'stack_pc'.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(46): (vlog-2730) Undefined variable: 'rs1'.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(47): (vlog-2730) Undefined variable: 'rs2'.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(48): (vlog-2730) Undefined variable: 'ws'.
+** Error: E:/ummarVicharaktask/modules/tb_reg_file.v(49): (vlog-2730) Undefined variable: 'wd'.
+** Error: (vlog-13069) E:/ummarVicharaktask/modules/tb_reg_file.v(80): near "end": syntax error, unexpected end, expecting ';'.
+
+} {4.0 15.0} {}} E:/ummarVicharaktask/modules/pc.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/pc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} E:/ummarVicharaktask/modules/reg_file.v {0 {vlog -work work -stats=none {E:\ummarVicharaktask\modules\reg_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+** Error: E:\ummarVicharaktask\modules\reg_file.v(48): (vlog-2730) Undefined variable: 'regsiter_file'.
+** Error: (vlog-13069) E:\ummarVicharaktask\modules\reg_file.v(64): near ";": syntax error, unexpected ';', expecting ')' or ','.
+
+} {4.0 6.0} {}} E:/ummarVicharaktask/modules/tb_cpu.v {0 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_cpu
+** Error: (vlog-13069) E:/ummarVicharaktask/modules/tb_cpu.v(23): near "200": syntax error, unexpected INTEGER NUMBER.
+** Error: E:/ummarVicharaktask/modules/tb_cpu.v(45): (vlog-13120) Unterminated block comment.
+E:/ummarVicharaktask/modules/tb_cpu.v(50): Verilog Compiler exiting
+
+} {4.0 6.0} {}} E:/ummarVicharaktask/modules/tb_data_mem.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_data_mem
+
+Top level modules:
+	tb_data_mem
+
+} {} {}} E:/ummarVicharaktask/modules/tb_hazard_detection.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_hazard_detection.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_hazard_detection
+
+Top level modules:
+	tb_hazard_detection
+
+} {} {}} E:/ummarVicharaktask/modules/data_mem.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} E:/ummarVicharaktask/modules/hazard_detection.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/hazard_detection.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazard_detection
+
+Top level modules:
+	hazard_detection
+
+} {} {}}

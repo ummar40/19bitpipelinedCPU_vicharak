@@ -1,0 +1,217 @@
+E:/ummarVicharaktask/modules/parameter.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/parameter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} E:/ummarVicharaktask/modules/ID_EX.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/ID_EX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} E:/ummarVicharaktask/modules/control.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} E:/ummarVicharaktask/modules/tb_inst_mem.v {2 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_inst_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_inst_mem
+** Warning: E:/ummarVicharaktask/modules/tb_inst_mem.v(22): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/tb_inst_mem.v(24): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	tb_inst_mem
+
+} {} {}} E:/ummarVicharaktask/modules/alu.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} E:/ummarVicharaktask/modules/forwarding_unit.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/forwarding_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} E:/ummarVicharaktask/modules/IF_ID.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/IF_ID.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} E:/ummarVicharaktask/modules/tb_MEM_WB.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_MEM_WB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_MEM_WB
+
+Top level modules:
+	tb_MEM_WB
+
+} {} {}} E:/ummarVicharaktask/modules/inst_mem.v {2 {vlog -work work -stats=none E:/ummarVicharaktask/modules/inst_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inst_mem
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(35): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(37): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(39): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(43): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(45): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(49): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(51): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: E:/ummarVicharaktask/modules/inst_mem.v(53): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	inst_mem
+
+} {} {}} E:/ummarVicharaktask/modules/tb_comparator.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_comparator
+
+Top level modules:
+	tb_comparator
+
+} {} {}} E:/ummarVicharaktask/modules/tb_ID_EX.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_ID_EX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ID_EX
+
+Top level modules:
+	tb_ID_EX
+
+} {} {}} E:/ummarVicharaktask/modules/MEM_WB.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/MEM_WB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} E:/ummarVicharaktask/modules/tb_forwarding_unit.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_forwarding_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module _tb_forwarding_unit
+
+Top level modules:
+	_tb_forwarding_unit
+
+} {} {}} E:/ummarVicharaktask/modules/tb_IF_ID.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_IF_ID.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_IF_ID
+
+Top level modules:
+	tb_IF_ID
+
+} {} {}} E:/ummarVicharaktask/modules/tb_EX_MEM.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_EX_MEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_EX_MEM
+
+Top level modules:
+	tb_EX_MEM
+
+} {} {}} E:/ummarVicharaktask/modules/comparator.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} E:/ummarVicharaktask/modules/tb_pc.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_pc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_pc
+
+Top level modules:
+	tb_pc
+
+} {} {}} E:/ummarVicharaktask/modules/cpu.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} E:/ummarVicharaktask/modules/alu_control.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/alu_control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} E:/ummarVicharaktask/modules/tb_reg_file.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_reg_file
+
+Top level modules:
+	tb_reg_file
+
+} {} {}} E:/ummarVicharaktask/modules/EX_MEM.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/EX_MEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} E:/ummarVicharaktask/modules/alu_mux.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/alu_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_mux
+
+Top level modules:
+	alu_mux
+
+} {} {}} E:/ummarVicharaktask/modules/pc.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/pc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} E:/ummarVicharaktask/modules/reg_file.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} E:/ummarVicharaktask/modules/tb_cpu.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_cpu
+
+Top level modules:
+	tb_cpu
+
+} {} {}} E:/ummarVicharaktask/modules/tb_data_mem.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_data_mem
+
+Top level modules:
+	tb_data_mem
+
+} {} {}} E:/ummarVicharaktask/modules/tb_hazard_detection.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_hazard_detection.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_hazard_detection
+
+Top level modules:
+	tb_hazard_detection
+
+} {} {}} E:/ummarVicharaktask/modules/tb_alu_mux.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/tb_alu_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_alu_mux
+
+Top level modules:
+	tb_alu_mux
+
+} {} {}} E:/ummarVicharaktask/modules/data_mem.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} E:/ummarVicharaktask/modules/hazard_detection.v {1 {vlog -work work -stats=none E:/ummarVicharaktask/modules/hazard_detection.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazard_detection
+
+Top level modules:
+	hazard_detection
+
+} {} {}}
